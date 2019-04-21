@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58720" started-at="2019-04-21T07:08:56Z" finished-at="2019-04-21T07:09:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58720" started-at="2019-04-21T07:08:56Z" finished-at="2019-04-21T07:09:55Z">
+      <class name="com.nopcommerce.qa.testpages.HomePageTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="setExtent" is-config="true" duration-ms="755" started-at="2019-04-21T07:08:56Z" finished-at="2019-04-21T07:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="setUp" is-config="true" duration-ms="31233" started-at="2019-04-21T07:08:57Z" finished-at="2019-04-21T07:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verufyUrlLogo()[pri:1, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="verufyUrlLogo" duration-ms="466" started-at="2019-04-21T07:09:28Z" finished-at="2019-04-21T07:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verufyUrlLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="997" started-at="2019-04-21T07:09:29Z" finished-at="2019-04-21T07:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="16" started-at="2019-04-21T07:09:30Z" finished-at="2019-04-21T07:09:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verufyUrlLogo status=SUCCESS method=HomePageTest.verufyUrlLogo()[pri:1, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="setUp" is-config="true" duration-ms="11697" started-at="2019-04-21T07:09:30Z" finished-at="2019-04-21T07:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:2, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="verifyPageTitleTest" duration-ms="34" started-at="2019-04-21T07:09:41Z" finished-at="2019-04-21T07:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="747" started-at="2019-04-21T07:09:41Z" finished-at="2019-04-21T07:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="setUp" is-config="true" duration-ms="8170" started-at="2019-04-21T07:09:42Z" finished-at="2019-04-21T07:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-04-21T07:09:42Z" finished-at="2019-04-21T07:09:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=HomePageTest.verifyPageTitleTest()[pri:2, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="verifyclickOnComputerLinkTest()[pri:3, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="verifyclickOnComputerLinkTest" duration-ms="2657" started-at="2019-04-21T07:09:50Z" finished-at="2019-04-21T07:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnComputerLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="813" started-at="2019-04-21T07:09:53Z" finished-at="2019-04-21T07:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-04-21T07:09:54Z" finished-at="2019-04-21T07:09:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyclickOnComputerLinkTest status=SUCCESS method=HomePageTest.verifyclickOnComputerLinkTest()[pri:3, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.nopcommerce.qa.testpages.HomePageTest@66a3ffec]" name="endReport" is-config="true" duration-ms="1076" started-at="2019-04-21T07:09:54Z" finished-at="2019-04-21T07:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.nopcommerce.qa.testpages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

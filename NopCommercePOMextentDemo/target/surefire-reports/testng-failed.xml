@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.nopcommerce.qa.testpages.HomePageTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.nopcommerce.qa.testpages.HomePageTest">
+        <methods>
+          <include name="verifyPageTitleTest"/>
+          <include name="verifyclickOnComputerLinkTest"/>
+          <include name="tearDown"/>
+          <include name="setExtent"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.nopcommerce.qa.testpages.HomePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.nopcommerce.qa.testpages.HomePageTest] -->
